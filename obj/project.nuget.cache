@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VIszhrwJtrq8zMiVlIzQK3dOgZ0Fd14u87aoFftWNNj3cglc9T+7YG9lSmNeK8VY9fnwYYcNWs5XSsm1VucAcg==",
+  "dgSpecHash": "IfhNseH7hmbtG0YOBAr6ZEMyhwUVv/INtlpE4v9Eqa2hBeqSCoB/z8PLGerc/vfC59rtvNAaRpwI5tgQGrefSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Brady\\Desktop\\ComputerInterface-main\\ComputerInterface\\ComputerInterface.csproj",
+  "projectFilePath": "C:\\Users\\Brady\\Desktop\\ComputerInterface-main\\ComputerInterface.Commands\\ComputerInterface.Commands.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Brady\\.nuget\\packages\\beatsabermoddingtools.tasks\\1.3.2\\beatsabermoddingtools.tasks.1.3.2.nupkg.sha512",
     "C:\\Users\\Brady\\.nuget\\packages\\microsoft.build.framework\\16.5.0\\microsoft.build.framework.16.5.0.nupkg.sha512",
